@@ -2,6 +2,7 @@ import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
+  //all are fake
   apiKey: "AIzaSyDiNkqbYIoq3MbFTPj5FPudgt4rehbRIOs",
   authDomain: "react-firebase-auth-2024.firebaseapp.com",
   projectId: "react-firebase-auth-2024",
